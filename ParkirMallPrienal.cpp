@@ -2,6 +2,8 @@
 #include <vector>
 using namespace std;
 
+const int KAPASITAS_MAKSIMUM = 20;
+
 struct Mobil {
     string plat;
     string merk;
